@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.globomed.learn.AddEmployeeActivity" />
+        <activity android:name=".UpdateEmployeeActivity" />
     </application>
 
 </manifest>
